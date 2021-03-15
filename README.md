@@ -1,0 +1,5 @@
+- 👋 Hi, we're @dan-fit
+- 👀 We're interested in using technology to improve lives
+- 🌱 We're currently trying to find a better way to help companies with software
+- 💞️ We're always keen to collaborate on anything you think could change the world
+- 📫 Drop us an email at https://fuseit.co.uk
